@@ -14,15 +14,19 @@ The dashboard tracks multi-year performance, revealing that the company generate
 ## 📊 Dashboard Features & Navigation
 
 **1. Executive Summary**
+![Executive Summary](Executive_Summary.jpg)
 Provides a high-level overview of core KPIs, including a global return rate of 2.2%. It includes a revenue trending line chart and a breakdown of orders by category, showing exactly which items drive the most volume.
 
 **2. Customer Insights**
+![Customer Insights](Customer_Detail.jpg)
 Analyzes a base of 17.4K unique customers, calculating an average revenue of $1,431 per customer. It includes donut charts segmenting orders by income level and occupation, alongside a leaderboard of the top 100 customers.
 
 **3. Product Detail & Forecasting**
+![Product Detail](Product_Detail.jpg)
 Allows users to drill through to specific products (like the Water Bottle - 30 oz.) to view performance against monthly targets using gauge visuals. This page also features a "Price Adjustment (%)" What-If parameter to simulate how price changes impact projected profits.
 
 **4. Geographical Map**
+![Map View](Map_View.jpg)
 An interactive map detailing the sales footprint across three major territories: Europe, North America, and the Pacific. 
 
 ## 📈 Key Business Insights Discovered
