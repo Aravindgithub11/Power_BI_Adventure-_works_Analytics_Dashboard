@@ -1,7 +1,7 @@
 # 🚲 Adventure Works: Business Intelligence & Sales Analytics
 
 ## 📌 Project Overview
-This project is the capstone for the "Microsoft Power BI Desktop for Business Intelligence" course[cite: 5, 6]. It transforms raw data from Adventure Works, a global cycling equipment manufacturer, into an interactive Power BI dashboard. 
+This project is the capstone for the "Microsoft Power BI Desktop for Business Intelligence" course. It transforms raw data from Adventure Works, a global cycling equipment manufacturer, into an interactive Power BI dashboard. 
 
 The dashboard tracks multi-year performance, revealing that the company generated **$24.9M in Revenue** and **$10.5M in Profit** across 25.2K total orders. The goal of this project was to provide executive stakeholders with actionable insights regarding regional performance, product return rates, and customer demographics.
 
